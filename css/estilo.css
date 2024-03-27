@@ -1,0 +1,12 @@
+.header{
+    padding: 2px;
+    background-color: brown;
+    color: aqua;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
